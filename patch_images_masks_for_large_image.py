@@ -2,6 +2,8 @@
 #from matplotlib import pyplot as plt
 from patchify import patchify
 import cv2
+#if using tiff files,
+import tifffile as tiff
 
 large_image_stack = cv2.imread('images/d1-b4-001.jpg')
 large_mask_stack = cv2.imread('masks/d1-b4-001.png')
