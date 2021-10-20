@@ -5,12 +5,16 @@ Currently employed methods:
 1- U-Net CNN (Supervised Learning)  
 2- K-Means Clustering (Unsupervised Learning)  
 
+Language: Python  
+
 Platform IDEs:  
 1- Anaconda  
 2- Pycharm (Script development)  
 3- Spyder (Data viewer & visualization)  
 
-Language: Python
+Requirements and Libraries:  
+1- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
+2- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
 
 ## Current Progress
 ### 1. U-Net CNN
