@@ -90,6 +90,17 @@ A. Bad clustering may due to:
   
 </details>
 
+## Research Paper References
+
+1. [MC-Unet: Multi-scale Convolution Unet for Bladder Cancer Cell Segmentation in Phase-Contrast Microscopy Images](https://ieeexplore.ieee.org/document/8983121)
+
+2. [An Engineered Approach to Stem Cell Culture: Automating the Decision Process for Real-Time Adaptive Subculture of Stem Cells](https://www.researchgate.net/publication/51824254_An_Engineered_Approach_to_Stem_Cell_Culture_Automating_the_Decision_Process_for_Real-Time_Adaptive_Subculture_of_Stem_Cells)
+
+3. [CNNs for Segmenting Confluent Cellular Culture](http://cs229.stanford.edu/proj2016/report/BrunoBeltranNalinRatnayeke-CNNsForSegmentingConfluentCellularCulture-report.pdf)
+
+4. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+
+
 ## Image Segmentation
 Image segmentation is a process of partitioning images into multiple distinguished regions containing each pixel with similar features/ attributes.
 
