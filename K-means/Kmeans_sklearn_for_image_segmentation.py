@@ -8,6 +8,10 @@ import imutils
 im = cv2.imread(r"C:\Users\Acer\Desktop\CellTest\images\d1-b3-010.jpg")
 # mask = cv2.imread(r"C:\Users\Acer\Desktop\CellTest\masks\d1-b3-010.png")
 
+# normalize the image
+norm_img = np.zeros(im.shape)
+im = cv2.normalize(im,  norm_img, 0, 255, cv2.NORM_MINMAX)
+
 # convert BGR image to RGB
 im = cv2.cvtColor(im, cv2.COLOR_BGR2RGB)
 original_shape = im.shape
@@ -21,7 +25,7 @@ original_shape = im.shape
 all_pixels = im.reshape((-1, 3))
 # print(all_pixels.shape)
 
-########################################################### k-means
+########################################################### k-means using sklearn
 
 clusters = 3 # change accordingly to available distinct regions
 column = 3  # column for plot # cant be lesser than 3 (or require extra editing)
@@ -41,7 +45,7 @@ centers = np.array(centers, dtype='uint8')
 
 # print(centers)
 
-########################################################### identify color of cluster cemters
+########################################################### identify color of cluster cemters (color swatch)
 
 i = 1
 
@@ -75,10 +79,14 @@ new_img = np.zeros(all_pixels.shape, dtype='uint8')
 # color labels
 label = km.labels_
 
+########################################################### option 1
+
 # iterate over the image
 # and plot based on color of cluster centers
 # for ix in range(new_img.shape[0]):
 #    new_img[ix] = colors[km.labels_[ix]]
+
+########################################################### option 2
 
 # to distinguish clusters
 for ix in range(new_img.shape[0]):
@@ -94,10 +102,10 @@ for ix in range(new_img.shape[0]):
         new_img[ix] = [0, 0, 255]  # blue
     # add more statements if need more clusters (>5)
 
+########################################################### plot available images
+
 # reshape the new image to the original image dimensions (MxNx3)
 new_img = new_img.reshape(original_shape)
-
-########################################################### plot available images
 
 # fig.add_subplot(2, column, column+1)
 # plt.title('masks')
