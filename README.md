@@ -40,13 +40,13 @@ Requirements and Libraries:
 <summary>Arising Problems</summary>
 <br>
 
-1- GPU exhaustion lead to the needs for:  
-  (a) batch size reduction  
-  (b) dimensions reduction  
-  (c) data training reduction
+A. GPU exhaustion lead to the needs for:  
+  (i) batch size reduction  
+  (ii) dimensions reduction  
+  (iii) data training reduction
   
-2- Bad model development lead to:  
-  (a) error prediction and inference  
+B. Bad model development lead to:  
+  (i) error prediction and inference  
 
 </details>
 
@@ -74,8 +74,8 @@ Requirements and Libraries:
 <summary>Arising Problems</summary>
 <br>
   
-1- Bad clustering may due to:  
-  (a) irregular brightness of image datasets (trying to normalize them in Step 1) 
+A. Bad clustering may due to:  
+  (i) irregular brightness of image datasets (trying to normalize them in Step 1) 
   
 </details>
 
