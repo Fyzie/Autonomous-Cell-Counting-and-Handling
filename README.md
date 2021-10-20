@@ -43,7 +43,7 @@ pip install labelme
   
 **Step 6-** Model Application. [[Reference 1](https://github.com/bnsreenu/python_for_microscopists/blob/master/206_sem_segm_large_images_using_unet_with_custom_patch_inference.py)] [[Reference 2](https://github.com/bnsreenu/python_for_microscopists/blob/master/206_sem_segm_large_images_using_unet_with_patchify.py)]
 
-[[Youtube Reference](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w)]
+Youtube Reference: [[DigitalSreeni](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w)] [[Apeer_micro](https://www.youtube.com/channel/UCVrG0AsRMb0pPcxzX75SusA/featured)]
  
 </details>
 
