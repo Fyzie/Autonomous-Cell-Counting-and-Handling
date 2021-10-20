@@ -17,6 +17,14 @@ Requirements and Libraries:
 2- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
 3- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
 
+How to Install LabelMe:  
+Install [Anaconda](https://www.anaconda.com/products/individual#Downloads), then in an Anaconda Prompt run:
+```
+conda create --name=labelme python=3.6
+conda activate labelme
+pip install labelme
+``` 
+
 ## Current Progress
 ### 1. U-Net CNN
 <details open>
