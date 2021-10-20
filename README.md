@@ -34,6 +34,8 @@ Requirements and Libraries:
   
 **Step 6-** Model Application. [[Reference 1](https://github.com/bnsreenu/python_for_microscopists/blob/master/206_sem_segm_large_images_using_unet_with_custom_patch_inference.py)] [[Reference 2](https://github.com/bnsreenu/python_for_microscopists/blob/master/206_sem_segm_large_images_using_unet_with_patchify.py)]
 
+[[Youtube Reference](https://www.youtube.com/watch?v=csFGTLT6_WQ&t=1295s)]
+ 
 </details>
 
 <details open>
