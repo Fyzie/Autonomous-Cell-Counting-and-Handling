@@ -31,7 +31,7 @@ pip install labelme
 <summary>Methodology</summary>
 <br>
  
-**Step 1-** Data annotation. Cells are labelled to distinguish between the background and the cell confluency.  
+**Step 1-** Data annotation. Cells are labelled to distinguish between the background and the cell confluency. [[Reference](https://medium.com/ching-i/segmentation-label-%E6%A8%99%E8%A8%BB%E6%95%99%E5%AD%B8-26b8179d661)]  
   
 **Step 2-** (Optional) Data/ Image patching. If your data resolutions/ dimensions are high, this step is recommended for GPU support. [[Reference 1](https://github.com/Fyzie/Cell-Confluency/blob/main/U-Net%20CNN/patch_images_masks_for_large_image.py)] [[Reference 2](https://github.com/bnsreenu/python_for_microscopists/blob/master/Tips_Tricks_5_extracting_patches_from_large_images_and_masks_for_semantic_segm.py)]
   
