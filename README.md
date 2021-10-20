@@ -56,8 +56,8 @@ A. GPU exhaustion leads to the needs for:
   (ii) dimensions reduction  
   (iii) data training reduction
   
-B. Improper model development leads to:  
-  (i) error prediction and inference  
+<!--B. Improper model development leads to:  
+  (i) error prediction and inference  -->
 
 </details>
 
