@@ -8,7 +8,7 @@ Currently employed methods:
 Language: Python  
 
 Platform IDEs:  
-1- Anaconda  
+1- Anaconda (Environment Setup)  
 2- Pycharm (Script development)  
 3- Spyder (Data viewer & visualization)  
 
