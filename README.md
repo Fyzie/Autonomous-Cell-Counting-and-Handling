@@ -56,7 +56,7 @@ A. GPU exhaustion leads to the needs for:
   (ii) dimensions reduction  
   (iii) data training reduction
   
-B. Bad model development leads to:  
+B. Improper model development leads to:  
   (i) error prediction and inference  
 
 </details>
@@ -85,7 +85,7 @@ B. Bad model development leads to:
 <summary>Arising Problems</summary>
 <br>
   
-A. Bad clustering may due to:  
+A. Improper clustering may due to:  
   (i) irregular brightness of image datasets (trying to normalize them in Step 1) 
   
 </details>
