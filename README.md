@@ -13,8 +13,9 @@ Platform IDEs:
 3- Spyder (Data viewer & visualization)  
 
 Requirements and Libraries:  
-1- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
-2- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
+1- Data Annotation Software/ Website; Suggested: [[LabelMe](https://github.com/wkentaro/labelme)] [[Apeer](https://www.apeer.com/app)]; Discoverable: [[Tools](https://github.com/taivop/awesome-data-annotation)]  
+2- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
+3- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
 
 ## Current Progress
 ### 1. U-Net CNN
@@ -34,7 +35,7 @@ Requirements and Libraries:
   
 **Step 6-** Model Application. [[Reference 1](https://github.com/bnsreenu/python_for_microscopists/blob/master/206_sem_segm_large_images_using_unet_with_custom_patch_inference.py)] [[Reference 2](https://github.com/bnsreenu/python_for_microscopists/blob/master/206_sem_segm_large_images_using_unet_with_patchify.py)]
 
-[[Youtube Reference](https://www.youtube.com/watch?v=csFGTLT6_WQ&t=1295s)]
+[[Youtube Reference](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w)]
  
 </details>
 
@@ -58,7 +59,7 @@ B. Bad model development leads to:
 <summary>Methodology</summary>
 <br>
 
-**Step 1-** Image Normalization.
+**Step 1-** Image Normalization. To manipulate brightness and contrast of the image datasets.
   
 **Step 2-** Image Flattening.
   
