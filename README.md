@@ -42,12 +42,12 @@ Requirements and Libraries:
 <summary>Arising Problems</summary>
 <br>
 
-A. GPU exhaustion lead to the needs for:  
+A. GPU exhaustion leads to the needs for:  
   (i) batch size reduction  
   (ii) dimensions reduction  
   (iii) data training reduction
   
-B. Bad model development lead to:  
+B. Bad model development leads to:  
   (i) error prediction and inference  
 
 </details>
