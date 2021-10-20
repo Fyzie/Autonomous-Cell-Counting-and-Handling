@@ -67,7 +67,7 @@ B. Bad model development leads to:
   
 **Step 4-** Labeled Image Restructuring.
   
-**Step 5-** Data Reshaping.
+**Step 5-** Image Reshaping.
   
 [[Reference](https://github.com/Fyzie/Cell-Confluency/blob/main/K-means/Kmeans_sklearn_for_image_segmentation.py)]
   
