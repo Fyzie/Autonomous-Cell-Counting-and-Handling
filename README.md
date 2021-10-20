@@ -8,9 +8,9 @@ Currently employed methods:
 Language: Python  
 
 Platform IDEs:  
-1- Anaconda (Environment Setup)  
-2- Pycharm (Script development)  
-3- Spyder (Data viewer & visualization)  [[Installation](https://www.spyder-ide.org/)] [[Anaconda Envs Preferences](https://medium.com/@apremgeorge/using-conda-python-environments-with-spyder-ide-and-jupyter-notebooks-in-windows-4e0a905aaac5)]  [[Compatibility](https://docs.spyder-ide.org/5/troubleshooting/common-illnesses.html)]
+1- Anaconda (Environment Setup) [[Installation](https://www.anaconda.com/products/individual#Downloads)] 
+2- Pycharm (Script development) [[Installation](https://www.jetbrains.com/pycharm/download/)]
+3- Spyder (Data viewer & visualization) [[Installation](https://www.spyder-ide.org/)] [[Anaconda Envs Preferences](https://medium.com/@apremgeorge/using-conda-python-environments-with-spyder-ide-and-jupyter-notebooks-in-windows-4e0a905aaac5)]  [[Compatibility](https://docs.spyder-ide.org/5/troubleshooting/common-illnesses.html)]  
 
 Requirements and Libraries:  
 1- Data Annotation Software/ Website; Suggested: [[LabelMe](https://github.com/wkentaro/labelme)] [[Apeer](https://www.apeer.com/app)]; Discoverable: [[Tools](https://github.com/taivop/awesome-data-annotation)]  
