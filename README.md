@@ -51,10 +51,10 @@ pip install labelme
 <summary>Arising Problems</summary>
 <br>
 
-**GPU exhaustion leads to the needs for: ** 
+**GPU exhaustion leads to the need for:**  
   (i) batch size reduction  
   (ii) dimensions reduction  
-  (iii) data training reduction
+  <!--(iii) data training reduction-->
   
 <!--**Improper model development leads to: ** 
   (i) error prediction and inference  -->
@@ -85,7 +85,7 @@ pip install labelme
 <summary>Arising Problems</summary>
 <br>
   
- **Improper clustering may due to:  **
+**Improper clustering may due to:**  
   (i) irregular brightness of image datasets (trying to normalize them in Step 1) 
   
 </details>
