@@ -82,6 +82,14 @@ Youtube Reference: [[DigitalSreeni](https://www.youtube.com/channel/UC34rW-HtPJu
 </details>
 
 <details open>
+<summary>Current Results</summary>
+<br>
+  
+  <img src="https://user-images.githubusercontent.com/76240694/138198216-0d487c0b-f31b-4b77-b9e2-0f8e385c927b.png" width="800">
+ 
+</details>
+
+<details open>
 <summary>Arising Problems</summary>
 <br>
   
