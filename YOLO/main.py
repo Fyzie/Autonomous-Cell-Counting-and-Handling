@@ -4,12 +4,8 @@ import imutils
 from pushbullet import Pushbullet
 import glob, random
 
-# register email into pushbullet browser
-# gmail = curiosity.iium@gmail.com
-# psk = procuriosity21
-
-# get access code
-pb = Pushbullet("o.iBWH6dXZLIRNdro3pW2y12lu646atxiJ")
+# get access code from your registered pushbullet
+pb = Pushbullet("Access Code")
 print(pb.devices)
 
 net = cv2.dnn_DetectionModel("yolov4-tiny-custom.cfg", "yolov4-tiny-custom_best.weights")
@@ -17,10 +13,14 @@ net.setInputSize(416, 416)
 net.setInputScale(1.0 / 255)
 net.setInputSwapRB(True)
 
+# select random images
 images = glob.glob("test/*.jpg")
-rand_img = random.choice(images)
-chosen = os.path.basename(rand_img)
-frame = cv2.imread(rand_img)
+select_img = random.choice(images)
+
+# select a specific image
+# select_img = "test/d0-c3-005.jpg"
+chosen = os.path.basename(select_img)
+frame = cv2.imread(select_img)
 h, w, _ = frame.shape
 frame_size = h * w
 
