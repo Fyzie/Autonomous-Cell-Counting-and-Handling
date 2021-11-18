@@ -7,11 +7,9 @@ import glob, random
 # init() # initialize robotic arm position
 
 # register email into pushbullet browser
-# gmail = curiosity.iium@gmail.com
-# psk = procuriosity21
 
 # get access code
-pb = Pushbullet("o.iBWH6dXZLIRNdro3pW2y12lu646atxiJ")
+pb = Pushbullet("Get Access Code")
 print(pb.devices)
 
 net = cv2.dnn_DetectionModel("yolov4-tiny-custom.cfg", "yolov4-tiny-custom_best.weights")
