@@ -4,6 +4,7 @@
 Currently employed methods:  
 1- U-Net CNN (Supervised Learning)  
 2- K-Means Clustering (Unsupervised Learning)  
+3- Tiny-YOLO (Supervised Learning, Object Detection)
 
 Language: Python  
 
@@ -14,8 +15,9 @@ Platform IDEs:
 
 Requirements and Libraries:  
 1- Data Annotation Software/ Website; Suggested: [[LabelMe](https://github.com/wkentaro/labelme)] [[Apeer](https://www.apeer.com/app)]; Discoverable: [[Tools](https://github.com/taivop/awesome-data-annotation)]  
-2- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
-3- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
+2- Data Annotation for YOLO [[OpenLabelling](https://github.com/Cartucho/OpenLabeling)]  
+3- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
+4- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
 
 How to Install LabelMe:  
 Install [Anaconda](https://www.anaconda.com/products/individual#Downloads), then in an Anaconda Prompt run:
@@ -51,7 +53,7 @@ Youtube Reference: [[DigitalSreeni](https://www.youtube.com/channel/UC34rW-HtPJu
 <summary>Results</summary>
 <br>
   
-  To be attached...
+  In progress...
  
 </details>
 
@@ -103,6 +105,7 @@ Youtube Reference: [[DigitalSreeni](https://www.youtube.com/channel/UC34rW-HtPJu
   
 **Improper clustering may due to:**  
   (i) irregular brightness of image datasets (trying to normalize them in Step 1) 
+  (ii) random cluster number and cluster centers
   
 </details>
 
