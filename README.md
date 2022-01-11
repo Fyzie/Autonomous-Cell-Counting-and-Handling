@@ -66,6 +66,7 @@ Full image:
 
 </details>  
 
+<details open>
 <summary>Arising Problems</summary>
 <br>
 
