@@ -61,6 +61,7 @@ Patched images:
    <img src="https://user-images.githubusercontent.com/76240694/148942459-9b846d42-f7ec-4fab-b328-a6bef275516d.png" width="600">  
    
 Full image:  
+ 
    <img src="https://user-images.githubusercontent.com/76240694/148942598-cff6f7c2-e11d-4dcb-9cb2-105599b33468.jpeg" width="600">
 
 </details>
