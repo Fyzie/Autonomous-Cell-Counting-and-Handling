@@ -64,7 +64,7 @@ Full image:
  
    <img src="https://user-images.githubusercontent.com/76240694/148942598-cff6f7c2-e11d-4dcb-9cb2-105599b33468.jpeg" width="600">
 
-</details>
+</details>  
 
 <summary>Arising Problems</summary>
 <br>
@@ -77,7 +77,7 @@ Full image:
 <!--**Improper model development leads to: ** 
   (i) error prediction and inference  -->
 
-</details>
+</details>  
 
 ### 2. K-Means Clustering
 
