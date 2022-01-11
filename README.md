@@ -113,7 +113,7 @@ Full image:
 <br>
   
 **Improper clustering may due to:**  
-  (i) irregular brightness of image datasets (trying to normalize them in Step 1) 
+  (i) irregular brightness of image datasets (trying to normalize them in Step 1)  
   (ii) random cluster number and cluster centers
   
 </details>
