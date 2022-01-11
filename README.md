@@ -15,7 +15,7 @@ Platform IDEs:
 4- Google Colaboratory  
 
 Requirements and Libraries:  
-1- Data Annotation Tools for Method 1; Suggested: [[LabelMe](https://github.com/wkentaro/labelme)] [[Apeer](https://www.apeer.com/app)]; Discoverable: [[Tools](https://github.com/taivop/awesome-data-annotation)]  
+1- Data Annotation Tools for Method 1; Suggested: [[Apeer](https://www.apeer.com/app)][[LabelMe](https://github.com/wkentaro/labelme)]; Discoverable: [[Tools](https://github.com/taivop/awesome-data-annotation)]  
 2- Data Annotation Tool for Method 3-YOLO [[OpenLabelling](https://github.com/Cartucho/OpenLabeling)]  
 3- Tensorflow Installation Setup [[Reference](https://www.youtube.com/watch?v=hHWkvEcDBO0)]  
 4- Libraries: opencv-python, matplotlib, numpy, keras, pillow, sklearn, imutils  
