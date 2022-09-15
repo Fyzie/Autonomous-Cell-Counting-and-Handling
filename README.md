@@ -134,6 +134,4 @@ Full image:
 ## Image Segmentation
 Image segmentation is a process of partitioning images into multiple distinguished regions containing each pixel with similar features/ attributes.
 
-
-
-
+## [Demo Project Video](https://github.com/Fyzie/Cell-Counting-and-Confluency/blob/main/Demo%20Video.m4v)
