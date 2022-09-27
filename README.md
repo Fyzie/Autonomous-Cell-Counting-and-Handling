@@ -1,7 +1,7 @@
 # Cell Confluency Using Image Segmentation
 
 ## Project Details
-Currently employed methods:  
+Employed methods:  
 1- U-Net CNN (Supervised Learning)  
 2- K-Means Clustering (Unsupervised Learning)  
 3- Tiny-YOLO (Supervised Learning, Object Detection)
