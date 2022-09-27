@@ -80,7 +80,7 @@ Full image:
 
 </details>  
 
-Further Progress @ https://github.com/Fyzie/Cell-segmentation-using-U-Net-based-networks
+Further Progress @ [Repo](https://github.com/Fyzie/Cell-segmentation-using-U-Net-based-networks)
 
 ### 2. K-Means Clustering
 
@@ -120,15 +120,15 @@ Further Progress @ https://github.com/Fyzie/Cell-segmentation-using-U-Net-based-
   
 </details>
 
-### 3. Tiny-YOLO & Final Progress
+### 3. Tiny-YOLO & [Final Progress](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling/blob/main/Tiny-YOLO/main4.py)
 
-![image](https://user-images.githubusercontent.com/76240694/192491500-a133765a-4f64-47fa-8dfd-48606cdad41f.png)
+<img src="https://user-images.githubusercontent.com/76240694/192491500-a133765a-4f64-47fa-8dfd-48606cdad41f.png" width="600">
 
-![image](https://user-images.githubusercontent.com/76240694/192491590-57cc1de6-5797-425f-bf78-5b61e2c3244c.png)
+<img src="https://user-images.githubusercontent.com/76240694/192491590-57cc1de6-5797-425f-bf78-5b61e2c3244c.png" width="600">
 
-![Screenshot 2021-11-18 183456](https://user-images.githubusercontent.com/76240694/192491045-d10abfdb-82aa-40b2-b639-3885ffaad8f9.png)
+<img src="https://user-images.githubusercontent.com/76240694/192491045-d10abfdb-82aa-40b2-b639-3885ffaad8f9.png" width="600">
 
-![image](https://user-images.githubusercontent.com/76240694/192492312-db3c6909-5e6c-4672-aadc-6ed260c59900.png)
+<img src="https://user-images.githubusercontent.com/76240694/192492312-db3c6909-5e6c-4672-aadc-6ed260c59900.png" width="600">
 
 ## Research Paper References
 
