@@ -1,4 +1,4 @@
-# Cell Confluency Using Image Segmentation
+# Cell Culture Monitoring
 
 ## Project Details
 Employed methods:  
