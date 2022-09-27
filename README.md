@@ -80,6 +80,8 @@ Full image:
 
 </details>  
 
+Further Progress @ https://github.com/Fyzie/Cell-segmentation-using-U-Net-based-networks
+
 ### 2. K-Means Clustering
 
 <details open>
