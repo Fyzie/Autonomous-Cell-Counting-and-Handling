@@ -28,7 +28,7 @@ conda activate labelme
 pip install labelme
 ``` 
 
-## Current Progress
+## Methods
 ### 1. U-Net CNN
 <details open>
 <summary>Methodology</summary>
