@@ -64,21 +64,7 @@ Full image:
  
    <img src="https://user-images.githubusercontent.com/76240694/148942598-cff6f7c2-e11d-4dcb-9cb2-105599b33468.jpeg" width="600">
 
-</details>  
-
-<details open>
-<summary>Arising Problems</summary>
-<br>
-
-**GPU exhaustion leads to the need for:**  
-  (i) batch size reduction  
-  (ii) dimensions reduction  
-  <!--(iii) data training reduction-->
-  
-<!--**Improper model development leads to: ** 
-  (i) error prediction and inference  -->
-
-</details>  
+</details>   
 
 Further Progress @ [This Repo](https://github.com/Fyzie/Cell-segmentation-using-U-Net-based-networks)
 
@@ -141,8 +127,3 @@ Project Continuation @ [This Repo](https://github.com/Fyzie/Automation-Character
 3. [CNNs for Segmenting Confluent Cellular Culture](http://cs229.stanford.edu/proj2016/report/BrunoBeltranNalinRatnayeke-CNNsForSegmentingConfluentCellularCulture-report.pdf)
 
 4. [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-
-
-## Image Segmentation
-Image segmentation is a process of partitioning images into multiple distinguished regions containing each pixel with similar features/ attributes.
-
