@@ -123,6 +123,7 @@ Further Progress @ [This Repo](https://github.com/Fyzie/Cell-segmentation-using-
 
 <img src="https://user-images.githubusercontent.com/76240694/192492312-db3c6909-5e6c-4672-aadc-6ed260c59900.png" width="600">
 
+## Next Project
 Project Continuation @ [This Repo](https://github.com/Fyzie/Automation-Characterization-and-Monitoring-of-Cell-Culture-Growth-Using-AIoT)
 
 ## Research Paper References
