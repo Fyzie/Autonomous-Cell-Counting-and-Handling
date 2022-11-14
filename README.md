@@ -5,6 +5,7 @@
   - [UNet](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#1-u-net-cnn)
   - [K-means](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#2-k-means-clustering)
   - [Tiny YOLO](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#3-tiny-yolo--final-progress) (Applied)
+- [Project Extension](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#next-project)
 - [Research Paper References](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#research-paper-references)
 
 ## Project Details
