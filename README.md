@@ -5,7 +5,7 @@
   - [UNet](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#1-u-net-cnn)
   - [K-means](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#2-k-means-clustering)
   - [Tiny YOLO](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#3-tiny-yolo--final-progress) (Applied)
-- [Project Extension](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#next-project)
+- [Project Extension](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#project-extension)
 - [Research Paper References](https://github.com/Fyzie/Autonomous-Cell-Counting-and-Handling#research-paper-references)
 
 ## Project Details
@@ -125,7 +125,7 @@ Further Progress @ [This Repo](https://github.com/Fyzie/Cell-segmentation-using-
 <img src="https://user-images.githubusercontent.com/76240694/192492312-db3c6909-5e6c-4672-aadc-6ed260c59900.png" width="600">
 
 ## Project Extension
-Project Continuation @ [This Repo](https://github.com/Fyzie/Automation-Characterization-and-Monitoring-of-Cell-Culture-Growth-Using-AIoT)
+Project is extended @ [This Repo](https://github.com/Fyzie/Automation-Characterization-and-Monitoring-of-Cell-Culture-Growth-Using-AIoT)
 
 ## Research Paper References
 
